@@ -1,0 +1,6 @@
+{
+  "name": "AI Agent Loop Explainer",
+  "description": "Deterministic motion graphics simulation demonstrating why AI agents repeat the same tool calls and how to fix it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
